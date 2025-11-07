@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@prabashanapubudu](https://medium.com/@prabashanapubudu)
 
-- 💬 Ask me about ... **MERN, LAMP, C#, Python**
+- 💬 Ask me about ... **MERN, LAMP, C#, Python , Nestjs, Nodejs, Next.js,React,**
 
 - 📫 How to reach me **prabashanapubudu@gmail.com**
 
